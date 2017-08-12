@@ -3,9 +3,10 @@ why i am here
 i dont know here
 i am missing pakistan
 this is there
-<<<<<<< HEAD
+
 Munich is the city i am living in
 munster
-=======
+
 aj mausam
->>>>>>> 6988eb706ef65551cb34e3c3351f073c229008f5
+
+kal ka mausam
